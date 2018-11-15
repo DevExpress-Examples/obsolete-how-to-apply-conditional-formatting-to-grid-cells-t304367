@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/Dashboard_ConditionalFormatting_Grid/Form1.cs) (VB: [Form1.vb](./VB/Dashboard_ConditionalFormatting_Grid/Form1.vb))
+<!-- default file list end -->
 # How to apply conditional formatting to Grid cells using the Bar Gradient Ranges condition
 
 
