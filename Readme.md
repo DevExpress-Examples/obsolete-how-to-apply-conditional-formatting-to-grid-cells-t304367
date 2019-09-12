@@ -3,12 +3,11 @@
 
 * [Form1.cs](./CS/Dashboard_ConditionalFormatting_Grid/Form1.cs) (VB: [Form1.vb](./VB/Dashboard_ConditionalFormatting_Grid/Form1.vb))
 <!-- default file list end -->
-# How to apply conditional formatting to Grid cells using the Bar Gradient Ranges condition
+# How to Apply Bar Gradient Ranges Conditional formatting to Grid Cells
 
 
-<p>The Bar Gradient Ranges condition (<a href="https://documentation.devexpress.com/#Dashboard/clsDevExpressDashboardCommonFormatConditionGradientRangeBartopic">FormatConditionGradientRangeBar</a>) allows you to visualize numeric values using bars whose colors are contained in the specified color gradient.</p>
-<p>This example shows how to apply conditional formatting to Grid cells using the predefined Red-Blue color gradient. Use the <strong>Update Formatting</strong> button to change start/end colors and the number of ranges in the color gradient. The third color in the middle of the color scale is also specified to generate a 3-color gradient.</p>
+The Bar Gradient Ranges condition (the [FormatConditionGradientRangeBar](docs.devexpress.devx/Dashboard/DevExpress.DashboardCommon.FormatConditionGradientRangeBar) class) allows you to visualize numeric values using bars whose colors are contained in the specified color gradient.
 
-<br/>
+This example shows how to apply conditional formatting to Grid cells using the predefined Red-Blue color gradient. Click the **Update Formatting** button to change start/end colors and the number of ranges in the color gradient. The third color in the middle of the color scale is also specified to generate a 3-color gradient.</p>
 
-
+![screenshot](/images/screenshot.png)
