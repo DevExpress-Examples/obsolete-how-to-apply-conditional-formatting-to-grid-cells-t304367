@@ -6,7 +6,7 @@
 # How to Apply Bar Gradient Ranges Conditional formatting to Grid Cells
 
 
-The Bar Gradient Ranges condition (the [FormatConditionGradientRangeBar](docs.devexpress.devx/Dashboard/DevExpress.DashboardCommon.FormatConditionGradientRangeBar) class) allows you to visualize numeric values using bars whose colors are contained in the specified color gradient.
+The Bar Gradient Ranges condition (the [FormatConditionGradientRangeBar](https://docs.devexpress.com/Dashboard/DevExpress.DashboardCommon.FormatConditionGradientRangeBar) class) allows you to visualize numeric values using bars whose colors are contained in the specified color gradient.
 
 This example shows how to apply conditional formatting to Grid cells using the predefined Red-Blue color gradient. Click the **Update Formatting** button to change start/end colors and the number of ranges in the color gradient. The third color in the middle of the color scale is also specified to generate a 3-color gradient.</p>
 
